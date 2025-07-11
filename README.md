@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Science , DSA (JAVA)**
 
+- 🌱 I’m currently uploading projects on my [Personal Portfolio](https://jatinvalecha.vercel.app/)
+
 - 🤝 I’m looking for improvements with [ExpenseTracker](https://github.com/jatin-glitch/ExpenseTrackerProject)
 
 - 👨‍💻 All of my projects are available at [Working on it](Working on it)
