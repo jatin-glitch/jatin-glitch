@@ -1,5 +1,5 @@
 <h1 align="center">Jatin Valecha</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | Java • Spring Boot • Microservices</h3>
+<h3 align="center">Backend-Focused Full-Stack Developer | Java • Spring Boot • Node.js • Express.js</h3>
 
 <p align="center">
 Building scalable systems and production-ready SaaS platforms 🚀
@@ -9,7 +9,7 @@ Building scalable systems and production-ready SaaS platforms 🚀
 
 ## 🧠 About Me
 
-- Backend-focused engineer with expertise in **Java & Spring Boot**  
+- Backend-focused engineer with expertise in **Java, Spring Boot, Node.js & Express.js**  
 - Strong foundation in **OOP, Data Structures & System Design**  
 - Experienced in **Microservices, REST APIs, Event-Driven Architectures**  
 - Passionate about **building SaaS platforms and real-world applications**
