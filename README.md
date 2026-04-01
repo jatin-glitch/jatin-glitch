@@ -1,30 +1,149 @@
-<h1 align="center">Hi 👋, I'm jatin-glitch</h1>
-<h3 align="center">A passionate java developer from Pakistan</h3>
+<h1 align="center">Jatin Valecha</h1>
+<h3 align="center">Backend-Focused Full-Stack Engineer | Java • Spring Boot • Distributed Systems</h3>
 
-- 🔭 I’m currently working on [Recipe Management](https://github.com/jatin-glitch/Recipe-Management)
-
-- 🌱 I’m currently learning **Data Science , DSA (JAVA)**
-
-- 🌱 I’m currently uploading projects on my [Personal Portfolio](https://jatinvalecha.vercel.app/)
-- You can check out my portfolio
-
-- 🤝 I’m looking for improvements with [ExpenseTracker](https://github.com/jatin-glitch/ExpenseTrackerProject)
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://jatinvalecha.vercel.app/)
-
-- 💬 Ask me about **Leetcode Problems from DSA , Data Science**
-
-- 📫 How to reach me **jvalecha50@gmail.com**
-
-- ⚡ How I Start Coding **Just By Learning from Youtube**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jatin valecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin valecha" height="30" width="40" /></a>
-<a href="https://fb.com/jatinvalecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jatinvalecha" height="30" width="40" /></a>
-<a href="https://instagram.com/jatanvalecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatanvalecha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jatin_valecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatin_valecha" height="30" width="40" /></a>
+<p align="center">
+Designing scalable backend systems, microservices architectures, and production-ready SaaS platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/jatin-glitch">
+<img src="https://komarev.com/ghpvc/?username=jatin-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+</p>
+
+---
+
+## 🧠 Engineering Profile
+
+- Backend-focused engineer specializing in **Java & Spring Boot ecosystems**
+- Strong foundation in **Data Structures, OOP, and System Design**
+- Hands-on experience with **Microservices & Event-Driven Architectures**
+- Built and deployed **real-world SaaS platforms**
+- Focused on writing **scalable, maintainable, production-grade code**
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**  
+`Java` `JavaScript` `Python` `PHP`
+
+**Backend Systems**  
+`Spring Boot` `Node.js` `Express.js` `Laravel`
+
+**Frontend**  
+`React` `Next.js` `Tailwind CSS`
+
+**Databases**  
+`PostgreSQL` `MongoDB` `MySQL`
+
+**Infrastructure & Tools**  
+`Docker` `GitHub Actions` `Redis` `Kafka` `WebSockets` `Linux` `Postman`
+
+**Core Concepts**  
+`Microservices Architecture` `REST APIs` `Authentication (JWT/OAuth)`  
+`Caching Strategies` `Event-Driven Systems` `System Design`
+
+---
+
+## 📌 Selected Projects
+
+### 🏗️ Multi-Tenant SaaS Project Management Platform
+**Tech:** Spring Boot, Next.js, Kafka, Redis, Docker  
+
+- Designed **microservices architecture** (Auth, Projects, Notifications)
+- Implemented **event-driven communication using Kafka**
+- Integrated **Redis caching** for performance optimization
+- Built **real-time notifications using WebSockets**
+- Containerized services & set up **CI/CD pipelines**
+
+🔗 https://github.com/jatin-glitch/saas-project-management-platform
+
+---
+
+### 🤖 AI Personal Scheduler
+**Tech:** Spring Boot, Next.js  
+
+- Built intelligent scheduling system using **priority-based algorithms**
+- Designed scalable backend with clean **REST API architecture**
+- Developed interactive UI with **analytics and timeline management**
+
+🔗 https://github.com/jatin-glitch/Ai-Personal-Scheduler
+
+---
+
+### 📊 ExpenseTracker Pro
+**Tech:** Next.js, TypeScript, Spring Boot  
+
+- Full-stack expense tracking with **real-time analytics**
+- Implemented advanced filtering and categorized tracking
+- Built modern UI with **animations & theme support**
+
+🔗 https://github.com/jatin-glitch/ExpenseTrackerProject
+
+---
+
+## 💼 Professional Experience
+
+**Junior Web Developer — AEROX ERP**  
+_Feb 2026 – Present_  
+- Developed backend systems for **multi-vendor e-commerce platform**
+- Optimized database queries improving performance and response time
+
+**Freelance Software Developer — Fiverr**  
+_Jan 2026 – Present_  
+- Delivered **full-stack applications** with secure authentication systems
+- Built scalable APIs and database-driven systems for clients
+
+**Backend Developer — Tech Maria**  
+_Jan 2026 – Feb 2026_  
+- Developed **POS backend systems** (billing, inventory, sales modules)
+
+**Web Developer Intern — CodeCelix**  
+_Nov 2025 – Jan 2026_  
+- Built Node.js APIs and implemented authentication workflows
+
+---
+
+## 📈 Current Focus
+
+- Deepening expertise in **Data Structures & Algorithms (Java)**
+- Advancing in **System Design & Distributed Systems**
+- Building **production-scale SaaS applications**
+
+---
+
+## 🌐 Links
+
+- 🌍 Portfolio: https://jatinvalecha.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/jatin-valecha-1b8252292/
+- 💻 GitHub: https://github.com/jatin-glitch
+- 📧 Email: jvalecha50@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jatin-glitch&show_icons=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-glitch" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/jatin-valecha-1b8252292">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.leetcode.com/jatin_valecha">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale. Write code that lasts.
