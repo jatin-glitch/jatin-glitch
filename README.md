@@ -11,7 +11,9 @@
 
 ## About Me
 
-Backend-focused engineer who builds scalable systems and production-ready applications. Strong foundation in **OOP, System Design, and Distributed Architectures**. Experienced with **Microservices, REST APIs, and Event-Driven patterns** using Kafka and WebSockets.
+Backend-focused engineer who builds scalable systems and production-ready applications.  
+Strong foundation in **OOP, System Design, and Distributed Architectures**.  
+Experienced with **Microservices, REST APIs, and Event-Driven patterns** using Kafka and WebSockets.
 
 ---
 
@@ -37,22 +39,6 @@ Priority-based task scheduling engine with conflict resolution. Drag-and-drop ti
 
 **[ExpenseTracker Pro](https://github.com/jatin-glitch/ExpenseTrackerProject)** · Spring Boot · Next.js · TypeScript  
 Full-stack expense tracker with real-time analytics, categorized filtering, and a responsive UI with dark/light theming.
-
----
-
-## Experience
-
-**Junior Web Developer — AEROX ERP** · Feb 2026 – Present  
-REST APIs and backend architecture for a multi-vendor e-commerce system; database schema design and query optimization.
-
-**Freelance Developer — Fiverr** · Jan 2026 – Present  
-Full-stack applications with secure authentication systems and database-driven APIs.
-
-**Backend Developer — Tech Maria** · Jan 2026 – Feb 2026  
-POS backend covering sales, billing, and inventory modules using Laravel and MySQL.
-
-**Web Developer Intern — CodeCelix** · Nov 2025 – Jan 2026  
-Node.js/Express APIs, MongoDB schemas, and authentication workflows.
 
 ---
 
