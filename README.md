@@ -1,74 +1,61 @@
 <h1 align="center">Jatin Valecha</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer | Java • Spring Boot • Node.js • Express.js</h3>
-
+<h3 align="center">Backend-Focused Full-Stack Developer</h3>
 <p align="center">
-Building scalable systems and production-ready SaaS platforms 🚀
+  Java · Spring Boot · Node.js · Express.js · Next.js
+</p>
+<p align="center">
+  Currently building at <strong>AEROX ERP</strong> · Open to backend/full-stack opportunities
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Backend-focused engineer with expertise in **Java, Spring Boot, Node.js & Express.js**  
-- Strong foundation in **OOP, Data Structures & System Design**  
-- Experienced in **Microservices, REST APIs, Event-Driven Architectures**  
-- Passionate about **building SaaS platforms and real-world applications**
+Backend-focused engineer who builds scalable systems and production-ready applications. Strong foundation in **OOP, System Design, and Distributed Architectures**. Experienced with **Microservices, REST APIs, and Event-Driven patterns** using Kafka and WebSockets.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-**Languages:** Java, JavaScript, Python, PHP  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Spring Boot, Node.js, Express.js, Laravel  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Tools & Infra:** Docker, Redis, Kafka, GitHub Actions, Postman, Linux  
-
----
-
-## 📌 Featured Projects
-
-- **[SaaS Project Management Platform](https://github.com/jatin-glitch/saas-project-management-platform)**  
-  Microservices, Kafka, Redis, WebSockets, Docker, CI/CD  
-
-- **[AI Personal Scheduler](https://github.com/jatin-glitch/Ai-Personal-Scheduler)**  
-  Priority-based task scheduling, REST APIs, interactive analytics UI  
-
-- **[ExpenseTracker Pro](https://github.com/jatin-glitch/ExpenseTrackerProject)**  
-  Full-stack expense tracker with analytics, responsive UI, theming  
+| Layer | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript, Python, PHP |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Spring Boot, Node.js, Express.js, Laravel |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **Infra & Tools** | Docker, Redis, Kafka, GitHub Actions, Postman |
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-- **Junior Web Developer — AEROX ERP** | Feb 2026 – Present  
-  Built backend systems for multi-vendor e-commerce, optimized database queries  
+**[SaaS Project Management Platform](https://github.com/jatin-glitch/saas-project-management-platform)** · Spring Boot · Next.js  
+Microservices architecture with Kafka for event-driven communication, Redis caching, WebSocket notifications, Docker, and CI/CD via GitHub Actions.
 
-- **Freelance Software Developer — Fiverr** | Jan 2026 – Present  
-  Delivered full-stack apps with secure authentication and APIs  
+**[AI Personal Scheduler](https://github.com/jatin-glitch/Ai-Personal-Scheduler)** · Spring Boot · Next.js  
+Priority-based task scheduling engine with conflict resolution. Drag-and-drop timeline UI and analytics dashboard backed by REST APIs.
 
-- **Backend Developer — Tech Maria** | Jan 2026 – Feb 2026  
-  Developed POS backend systems (sales, billing, inventory)  
-
-- **Web Developer Intern — CodeCelix** | Nov 2025 – Jan 2026  
-  Node.js APIs and authentication workflows  
+**[ExpenseTracker Pro](https://github.com/jatin-glitch/ExpenseTrackerProject)** · Spring Boot · Next.js · TypeScript  
+Full-stack expense tracker with real-time analytics, categorized filtering, and a responsive UI with dark/light theming.
 
 ---
 
-## 🌐 Links
+## Experience
 
-- 🌍 Portfolio: [jatinvalecha.vercel.app](https://jatinvalecha.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/jatin-valecha-1b8252292](https://www.linkedin.com/in/jatin-valecha-1b8252292/)  
-- 📧 Email: jvalecha50@gmail.com  
-- 💻 GitHub: [github.com/jatin-glitch](https://github.com/jatin-glitch)  
+**Junior Web Developer — AEROX ERP** · Feb 2026 – Present  
+REST APIs and backend architecture for a multi-vendor e-commerce system; database schema design and query optimization.
+
+**Freelance Developer — Fiverr** · Jan 2026 – Present  
+Full-stack applications with secure authentication systems and database-driven APIs.
+
+**Backend Developer — Tech Maria** · Jan 2026 – Feb 2026  
+POS backend covering sales, billing, and inventory modules using Laravel and MySQL.
+
+**Web Developer Intern — CodeCelix** · Nov 2025 – Jan 2026  
+Node.js/Express APIs, MongoDB schemas, and authentication workflows.
 
 ---
 
-<p align="center">
-<a href="https://linkedin.com/in/jatin-valecha-1b8252292">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/jatin_valecha">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-</p>
+## Links
+
+[Portfolio](https://jatinvalecha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jatin-valecha-1b8252292/) · [LeetCode](https://www.leetcode.com/jatin_valecha) · [Email](mailto:jvalecha50@gmail.com)
