@@ -1,137 +1,68 @@
 <h1 align="center">Jatin Valecha</h1>
-<h3 align="center">Backend-Focused Full-Stack Engineer | Java • Spring Boot • Distributed Systems</h3>
+<h3 align="center">Backend-Focused Full-Stack Developer | Java • Spring Boot • Microservices</h3>
 
 <p align="center">
-Designing scalable backend systems, microservices architectures, and production-ready SaaS platforms.
-</p>
-
-<p align="center">
-<a href="https://github.com/jatin-glitch">
-<img src="https://komarev.com/ghpvc/?username=jatin-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+Building scalable systems and production-ready SaaS platforms 🚀
 </p>
 
 ---
 
-## 🧠 Engineering Profile
+## 🧠 About Me
 
-- Backend-focused engineer specializing in **Java & Spring Boot ecosystems**
-- Strong foundation in **Data Structures, OOP, and System Design**
-- Hands-on experience with **Microservices & Event-Driven Architectures**
-- Built and deployed **real-world SaaS platforms**
-- Focused on writing **scalable, maintainable, production-grade code**
+- Backend-focused engineer with expertise in **Java & Spring Boot**  
+- Strong foundation in **OOP, Data Structures & System Design**  
+- Experienced in **Microservices, REST APIs, Event-Driven Architectures**  
+- Passionate about **building SaaS platforms and real-world applications**
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**  
-`Java` `JavaScript` `Python` `PHP`
-
-**Backend Systems**  
-`Spring Boot` `Node.js` `Express.js` `Laravel`
-
-**Frontend**  
-`React` `Next.js` `Tailwind CSS`
-
-**Databases**  
-`PostgreSQL` `MongoDB` `MySQL`
-
-**Infrastructure & Tools**  
-`Docker` `GitHub Actions` `Redis` `Kafka` `WebSockets` `Linux` `Postman`
-
-**Core Concepts**  
-`Microservices Architecture` `REST APIs` `Authentication (JWT/OAuth)`  
-`Caching Strategies` `Event-Driven Systems` `System Design`
+**Languages:** Java, JavaScript, Python, PHP  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Spring Boot, Node.js, Express.js, Laravel  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Tools & Infra:** Docker, Redis, Kafka, GitHub Actions, Postman, Linux  
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-### 🏗️ Multi-Tenant SaaS Project Management Platform
-**Tech:** Spring Boot, Next.js, Kafka, Redis, Docker  
+- **[SaaS Project Management Platform](https://github.com/jatin-glitch/saas-project-management-platform)**  
+  Microservices, Kafka, Redis, WebSockets, Docker, CI/CD  
 
-- Designed **microservices architecture** (Auth, Projects, Notifications)
-- Implemented **event-driven communication using Kafka**
-- Integrated **Redis caching** for performance optimization
-- Built **real-time notifications using WebSockets**
-- Containerized services & set up **CI/CD pipelines**
+- **[AI Personal Scheduler](https://github.com/jatin-glitch/Ai-Personal-Scheduler)**  
+  Priority-based task scheduling, REST APIs, interactive analytics UI  
 
-🔗 https://github.com/jatin-glitch/saas-project-management-platform
+- **[ExpenseTracker Pro](https://github.com/jatin-glitch/ExpenseTrackerProject)**  
+  Full-stack expense tracker with analytics, responsive UI, theming  
 
 ---
 
-### 🤖 AI Personal Scheduler
-**Tech:** Spring Boot, Next.js  
+## 💼 Experience
 
-- Built intelligent scheduling system using **priority-based algorithms**
-- Designed scalable backend with clean **REST API architecture**
-- Developed interactive UI with **analytics and timeline management**
+- **Junior Web Developer — AEROX ERP** | Feb 2026 – Present  
+  Built backend systems for multi-vendor e-commerce, optimized database queries  
 
-🔗 https://github.com/jatin-glitch/Ai-Personal-Scheduler
+- **Freelance Software Developer — Fiverr** | Jan 2026 – Present  
+  Delivered full-stack apps with secure authentication and APIs  
 
----
+- **Backend Developer — Tech Maria** | Jan 2026 – Feb 2026  
+  Developed POS backend systems (sales, billing, inventory)  
 
-### 📊 ExpenseTracker Pro
-**Tech:** Next.js, TypeScript, Spring Boot  
-
-- Full-stack expense tracking with **real-time analytics**
-- Implemented advanced filtering and categorized tracking
-- Built modern UI with **animations & theme support**
-
-🔗 https://github.com/jatin-glitch/ExpenseTrackerProject
-
----
-
-## 💼 Professional Experience
-
-**Junior Web Developer — AEROX ERP**  
-_Feb 2026 – Present_  
-- Developed backend systems for **multi-vendor e-commerce platform**
-- Optimized database queries improving performance and response time
-
-**Freelance Software Developer — Fiverr**  
-_Jan 2026 – Present_  
-- Delivered **full-stack applications** with secure authentication systems
-- Built scalable APIs and database-driven systems for clients
-
-**Backend Developer — Tech Maria**  
-_Jan 2026 – Feb 2026_  
-- Developed **POS backend systems** (billing, inventory, sales modules)
-
-**Web Developer Intern — CodeCelix**  
-_Nov 2025 – Jan 2026_  
-- Built Node.js APIs and implemented authentication workflows
-
----
-
-## 📈 Current Focus
-
-- Deepening expertise in **Data Structures & Algorithms (Java)**
-- Advancing in **System Design & Distributed Systems**
-- Building **production-scale SaaS applications**
+- **Web Developer Intern — CodeCelix** | Nov 2025 – Jan 2026  
+  Node.js APIs and authentication workflows  
 
 ---
 
 ## 🌐 Links
 
-- 🌍 Portfolio: https://jatinvalecha.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/jatin-valecha-1b8252292/
-- 💻 GitHub: https://github.com/jatin-glitch
-- 📧 Email: jvalecha50@gmail.com
+- 🌍 Portfolio: [jatinvalecha.vercel.app](https://jatinvalecha.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/jatin-valecha-1b8252292](https://www.linkedin.com/in/jatin-valecha-1b8252292/)  
+- 📧 Email: jvalecha50@gmail.com  
+- 💻 GitHub: [github.com/jatin-glitch](https://github.com/jatin-glitch)  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jatin-glitch&show_icons=true&theme=default" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatin-glitch" />
-</p>
-
----
-
-## 🤝 Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/jatin-valecha-1b8252292">
@@ -141,9 +72,3 @@ _Nov 2025 – Jan 2026_
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
 </a>
 </p>
-
----
-
-## ⚡ Philosophy
-
-> Build systems that scale. Write code that lasts.
