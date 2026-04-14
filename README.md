@@ -27,22 +27,6 @@ Experienced in **REST APIs, Event-Driven patterns, Kafka, WebSockets**, and buil
 
 ---
 
-## 💼 Featured Projects
-
-### [SaaS Project Management Platform](https://github.com/jatin-glitch/saas-project-management-platform)  
-**Tech:** Spring Boot · Next.js · Kafka · Redis · WebSockets · Docker · CI/CD  
-Microservices-based platform with **event-driven architecture, caching, real-time notifications**, and automated deployment workflows.
-
-### [AI Personal Scheduler](https://github.com/jatin-glitch/Ai-Personal-Scheduler)  
-**Tech:** Spring Boot · Next.js · REST APIs  
-Intelligent task scheduler with **priority-based conflict resolution, drag-and-drop timeline UI**, and analytics dashboard.
-
-### [ExpenseTracker Pro](https://github.com/jatin-glitch/ExpenseTrackerProject)  
-**Tech:** Spring Boot · Next.js · TypeScript  
-Full-stack expense tracker with **real-time analytics, categorized filters**, and **responsive UI with dark/light mode support**.
-
----
-
 ## 📫 Connect with Me
 
 [Portfolio](https://jatinvalecha.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jatin-valecha-1b8252292/) · [LeetCode](https://www.leetcode.com/jatin_valecha) · [Email](mailto:jvalecha50@gmail.com)
